@@ -2,7 +2,7 @@
   "name": "flower_market",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anhdungg.github.io/flower_market/",
+  "homepage": "https://anhdungg.github.io/flower_market/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
