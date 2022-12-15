@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/flower-market/static/css/main.073c9b0a.css",
-    "main.js": "/flower-market/static/js/main.ad8ea374.js",
+    "main.js": "/flower-market/static/js/main.4baa067c.js",
     "static/js/787.dd3524fa.chunk.js": "/flower-market/static/js/787.dd3524fa.chunk.js",
     "static/media/logo.svg": "/flower-market/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/flower-market/index.html",
     "main.073c9b0a.css.map": "/flower-market/static/css/main.073c9b0a.css.map",
-    "main.ad8ea374.js.map": "/flower-market/static/js/main.ad8ea374.js.map",
+    "main.4baa067c.js.map": "/flower-market/static/js/main.4baa067c.js.map",
     "787.dd3524fa.chunk.js.map": "/flower-market/static/js/787.dd3524fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad8ea374.js"
+    "static/js/main.4baa067c.js"
   ]
 }
